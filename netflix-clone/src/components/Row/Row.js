@@ -21,7 +21,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
   }, [fetchUrl]); // If [],  run once when the row loads, and don't run again
 
   const opts = {
-    height: "390",
+    height: "640",
     width: "100%",
     playerVars: {
       autoplay: 1
