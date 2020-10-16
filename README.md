@@ -10,5 +10,5 @@ Netflix page created in ReacJS for studying purpose.
 - CSS
 - JAVASCRIPT
 - REACT
-- REST API
+- REST API https://www.themoviedb.org/
 - FIREBASE
