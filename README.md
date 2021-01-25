@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Netflix page created in ReacJS for studying purpose.
+Netflix page created in ReacJS for studying purposes.
 
 ![Image of Website](https://github.com/walissoncom/netflix-clone/blob/master/netflix-demo.gif)
 
